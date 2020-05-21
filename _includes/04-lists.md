@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Branding
+* Graphic Design
+* Website Design
+  * WordPress
+  * WordPress Maintenance
